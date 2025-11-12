@@ -62,16 +62,7 @@ I’m also comfortable working on both **frontend** and **backend** systems, wit
 
 ---
 
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yxshkm404&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yxshkm404&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshkm404&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 
 ---
@@ -83,13 +74,13 @@ I’m also comfortable working on both **frontend** and **backend** systems, wit
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaswanthkumar-it&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yxshkm404&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthkumar-it&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yxshkm404&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthkumar-it&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshkm404&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
