@@ -62,18 +62,17 @@ I’m also comfortable working on both **frontend** and **backend** systems, wit
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://yaswanthkumar-it.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/yaswanth-kumar-1aa95b248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yaswanth.kumar.it@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
+## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yxshkm404&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yxshkm404&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshkm404&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
