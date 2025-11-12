@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Yaswanth Kumar</span></h1>
 
 <p align="center">
-🎓 Final-year B.Tech IT Student | 💻 Full Stack Developer | 🔐 Cybersecurity & Network Engineering Enthusiast
+🎓 Final-year B.Tech IT Student | 💻 Full Stack Developer | ☁️Cloud & AI 🤖  Enthusiast
 </p>
 
 ---
@@ -84,13 +84,13 @@ I’m passionate about **clean code, problem-solving, and real-world tech applic
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaswanthkumar-it&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yxshkm404&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthkumar-it&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yxshkm404&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthkumar-it&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshkm404&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
