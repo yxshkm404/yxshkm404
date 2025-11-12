@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Yaswanth Kumar</span></h1>
 
 <p align="center">
-🎓 Final-year B.Tech IT Student | 💻 Full Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast
+🎓 Final-year B.Tech IT Student | 💻 Full Stack Developer | ☁️ Cloud & AI 🤖 Enthusiast
 </p>
 
 ---
