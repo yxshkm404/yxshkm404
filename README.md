@@ -44,7 +44,7 @@ I’m passionate about **clean code, problem-solving, and real-world tech applic
 
 ### 💻 **Operating Systems**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
 </p>
 
 ### 🔤 **Programming Languages**
